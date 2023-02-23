@@ -1,0 +1,29 @@
+.homeNavbar li{
+display: flex;
+margin-left: 100px;
+  text-align: center;
+}
+.homeNavbar ul{
+  display: flex;
+  margin-left: 260px;
+  text-align: center;
+  margin-bottom: 0px;
+}
+.homeNavbar{
+background-color: lightblue;
+
+}
+
+.employee_image{
+  background-color: yellow;
+}
+
+.logo img{
+  border-radius: 30px;
+  margin-left: 50px;
+}
+.welcome{
+  text-align: center;
+  margin-top: 100px;
+  font-style: italic;
+}
