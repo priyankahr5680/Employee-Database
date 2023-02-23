@@ -16,7 +16,7 @@ const HomeNavbar = () => {
         </div>
         </div>
         <div className='employee_image'>
-          <img style={{height:"500px", width:"1300px" ,marginTop:"10px"}} src="https://i0.wp.com/healthcheckscreening.com/wp-content/uploads/2017/11/AdobeStock_108067216.jpeg?fit=6168%2C2784&ssl=1" alt="" />
+         
         </div>
         </div>
       );
